@@ -38,7 +38,7 @@
 
 <p align="center"> <img src="https://i.imgur.com/VvGk8E3.png" alt="confusion_matrix" width="1000"/> </p>
 
-[Ссылка на блокнот с сравнением моделей](https://github.com/Poziloi/neural_networks/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%E2%84%969_%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B5%D0%B9_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B8_%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_API_%D0%A1%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9.ipynb)
+[Ссылка на блокнот с сравнением моделей](https://colab.research.google.com/drive/1dZrAACm14xOswcHvOxreaGwlTIdvZeAP?authuser=1#scrollTo=Olo7unRboSrl)
 
 ---
 
@@ -55,7 +55,7 @@
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/Poziloi/chicken_cow_horse_sheep-classification.git
+git clone https://github.com/bk-ru/chicken_cow_horse_sheep-classification
 cd chicken_cow_horse_sheep-classification
 ```
 
@@ -93,7 +93,7 @@ streamlit run app.py
 
 ## 🔗 Развёрнутые приложения
 
-- 🎯 **Streamlit-интерфейс**: [https://chicken-cow-horse-sheep-classification.streamlit.app/](https://chicken-cow-horse-sheep-classification.streamlit.app/)
+- 🎯 **Streamlit-интерфейс**: [https://chicken-cow-horse-sheep-classification.streamlit.app/](https://chickencowhorsesheep-classification-umzrduj8bjojdzmgym6atc.streamlit.app/)
 - ⚡ **API сервер (FastAPI)**: [https://chicken-cow-horse-sheep-classification.onrender.com/docs](https://chicken-cow-horse-sheep-classification.onrender.com/docs)
 
 ---
