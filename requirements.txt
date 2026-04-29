@@ -1,13 +1,7 @@
-fastapi
-uvicorn
 numpy
-opencv-python-headless
 pillow
-scikit-learn
-joblib
-tensorflow
 streamlit
 streamlit-drawable-canvas
-python-multipart
+starlette>=0.52.1,<1.0
 requests
 matplotlib
